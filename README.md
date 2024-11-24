@@ -1,2 +1,2 @@
-# exams
+# students
 lets go wild
